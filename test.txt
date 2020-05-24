@@ -1,0 +1,1 @@
+This is a test version of GIT, it's a free software tool
